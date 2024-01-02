@@ -1,0 +1,39 @@
+.clac{
+  width: 320px;
+  margin: 100px auto;
+  border: 3px solid saddlebrown;
+  padding: 2px;
+  background-color: blue
+
+}
+#Answer{
+
+  background-color: bisque;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid black;
+  border-radius: 6px;
+}
+.button{
+  background-color: aquamarine;
+  height: 55px;
+  width: 75px;
+  color: black;
+  font-size: 30px;
+  border: 3px solid black;
+  border-radius: 9px;
+  margin-top: 5px;
+  margin-right: 6px;
+}
+#mar{
+  margin-right: 0;
+}
+#btn2s{
+  height: 50px;
+  width: 150px;
+  margin: 5px;
+}
+
